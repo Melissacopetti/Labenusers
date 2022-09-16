@@ -1,13 +1,16 @@
-# Labenusers
+## Labenusers
 
 ***
 
-### Objetivos
-- Projeto desenvovido para testar os conhecimentos básicos de API em React-JS e testar métodos de CSS em Styled Components. Consistiu na criação de duas páginas simples, uma para cadastro de usuários e outra para apresentar a lista de usuários cadastrados, com a possibilidade de excluí-los.
+<h1 align="center"> Projeto Labenusers - Turma Alves - Labenu </h1>
 
+### Objetivos
+<div align="justify">
+- Projeto desenvovido para testar os conhecimentos básicos de API em React-JS e testar métodos de CSS em Styled Components. Consistiu na criação de duas páginas simples, uma para cadastro de usuários e outra para apresentar a lista de usuários cadastrados, com a possibilidade de excluí-los.
+</div>
 
 ### Link Surge 
-labenuserspr.surge.sh
+[Labenusers](https://labenuserspr.surge.sh)
 
 
 ### Imagens
